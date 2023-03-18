@@ -1,5 +1,5 @@
 # react-calculator
-React calulcator
+React calculator
 
 
 # Initial set up
